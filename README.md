@@ -1,4 +1,4 @@
-# Open access and preprints of the latest research articles.
+# Open access and preprints of the latest research articles
 
 # Main contributions
 
