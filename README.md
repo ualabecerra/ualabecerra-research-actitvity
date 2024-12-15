@@ -19,7 +19,7 @@
 ## 2021
 
 - J. M. Almendros-Jimenez, **A. Becerra-Teron**.
-*Discovery and diagnosis of wrong SPARQL queries with ontology and constraint reasoning*. Expert Systems with Applications. Vol. 165, Pages 113772, 2021, Elsevier. [[Download preprint]](MainContributions/ESWA-2021/ESWA-2019-pre.pdf)
+*Discovery and diagnosis of wrong SPARQL queries with ontology and constraint reasoning*. Expert Systems with Applications. Vol. 165, Pages 113772, 2021, Elsevier. [[Download preprint]](MainContributions/ESWA-2021/ESWA-2021-pre.pdf)
 
 ## 2021
 
