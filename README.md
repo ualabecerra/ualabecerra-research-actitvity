@@ -14,7 +14,7 @@
 ## 2021
 
 - J. M. Almendros-Jimenez, **A. Becerra-Teron**, M. G. Merayo, M. Nunez.
-*Metamorphic Testing of OpenStreetMap*. Information and Software Technology. Vol. 138, Pages 106631, 2021, Elsevier. [[Download Open Access Version]](MainContributions/IST-2021/IST-2021.pdf)
+*Metamorphic testing of OpenStreetMap*. Information and Software Technology. Vol. 138, Pages 106631, 2021, Elsevier. [[Download Open Access Version]](MainContributions/IST-2021/IST-2021.pdf)
 
 ## 2021
 
