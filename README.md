@@ -24,7 +24,7 @@
 ## 2021
 
 - J. M. Almendros-Jimenez, **A. Becerra-Teron**, M. Torres.
-*The retrieval of social network data for points-of-interest in OpenStreetMap*. Human-centric Computing and Information Sciences. Vol. 11, N. 10, Pages 22, 2021, KCIA (Korea Computer Industry Association). [[Download Open Access Version]](MainContributions/HCIS-2021/HCIS-2021-pre.pdf)
+*The retrieval of social network data for points-of-interest in OpenStreetMap*. Human-centric Computing and Information Sciences. Vol. 11, N. 10, Pages 22, 2021, KCIA (Korea Computer Industry Association). [[Download Open Access Version]](MainContributions/HCIS-2021/HCIS-2021.pdf)
 
 # Reserve Contributions
 
