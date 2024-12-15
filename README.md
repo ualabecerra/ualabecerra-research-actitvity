@@ -4,7 +4,7 @@
 
 ## 2024
 
-- M. Mendez, **A. Becerra-Teron**, J. M. Almendros-Jimenez, M. G. Merayo, M. Nunez. *Combining Metamorphic Testing and Machine Learning to Enhance OpenStreetMap*. IEEE Transactions on Reliability, Vol. 73, N. 4, Pages 1834-1848, 2024, IEEE. [[Download Open Access Version]](MainContributions/TRE-2024/TRE-2024.pdf)
+- M. Mendez, **A. Becerra-Teron**, J. M. Almendros-Jimenez, M. G. Merayo, M. Nunez. *Combining Metamorphic Testing and Machine Learning to Enhance OpenStreetMap*. IEEE Transactions on Reliability, Vol. 73, N. 4, Pages 1834-1848, 2024, IEEE. [[Download Preprint]](MainContributions/TRE-2024/TRE-2024-print.pdf)
 
 ## 2023
 
@@ -19,7 +19,7 @@
 ## 2021
 
 - J. M. Almendros-Jimenez, **A. Becerra-Teron**.
-*Discovery and diagnosis of wrong SPARQL queries with ontology and constraint reasoning*. Expert Systems with Applications. Vol. 165, Pages 113772, 2021, Elsevier. [[Download preprint]](MainContributions/ESWA-2021/ESWA-2021-pre.pdf)
+*Discovery and diagnosis of wrong SPARQL queries with ontology and constraint reasoning*. Expert Systems with Applications. Vol. 165, Pages 113772, 2021, Elsevier. [[Download Preprint]](MainContributions/ESWA-2021/ESWA-2021-pre.pdf)
 
 ## 2021
 
@@ -34,4 +34,4 @@
 *Tunning fuzzy SPARQL queries*. International Journal of Approximate Reasoning. Vol. 170, Pages 109209, 2024, Elsevier. [[Download Open Access Version]](ReserveContributions/IJAR-2024/IJAR-2024.pdf)
 
 ## 2019
-- J. M. Almendros-Jiménez, **A. Becerra-Terón**, M. Torres. *Integrating and querying OpenStreetMap and linked geo open data*. Computer Journal. Vol. 63, N. 3, Pages 321-345, 2019, Oxford University Press. [[Download preprint]](ReserveContributions/CJ-2019/CJ-2019-pre.pdf)
+- J. M. Almendros-Jiménez, **A. Becerra-Terón**, M. Torres. *Integrating and querying OpenStreetMap and linked geo open data*. Computer Journal. Vol. 63, N. 3, Pages 321-345, 2019, Oxford University Press. [[Download Preprint]](ReserveContributions/CJ-2019/CJ-2019-pre.pdf)
