@@ -1,10 +1,10 @@
-# Preprints de los últimos artículos de investigación en los que he participado.
+# Open Access y Preprints de los últimos artículos de investigación en los que he participado.
 
 # Principales contribuciones
 
 ## 2024
 
-- Manuel Muñoz, José Luis Guzmán, Manuel Torres, Francisco Gabriel Acién. *An IoT Platform for Data Management in an Industrial-Scale Microalgae Cultivation Plant*. IEEE Access 10: 127128-127139 (2022). [[Download Open Access version]](IEEEAccess-2022/pub/IEEEAccess-2022.pdf)
+- M. Mendez, A. Becerra-Teron, J. M. Almendros-Jimenez, M. G. Merayo, M. Nunez. *Combining Metamorphic Testing and Machine Learning to Enhance OpenStreetMap*. IEEE Transactions on Reliability, Vol. 73, N. 4, Pages 1834-1848, 2024, IEEE. [[Download Open Access version]](MainContributions/TRE-2024/TRE-2024-pre.pdf)
 
 ## 2023
 
@@ -20,7 +20,7 @@
 
 ## 2021
 
-- Jesús Manuel Almendros-Jiménez, Antonio Becerra-Terón, Manuel Torres:
+- J. M. Almendros-Jiménez, A. Becerra-Terón, M. Torres:
 *Aggregation Operators in Geospatial Queries for Open Street Map*. On the Move to Meaningful Internet Systems: OTM 2015 Conferences. OTM 2015. Lecture Notes in Computer Science(), vol 9415, pp 501-518 (2015). [[Download preprint]](OTM-2015/pub/OTM-2015-pre.pdf)
 
 # Contribuciones adicionales
