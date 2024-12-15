@@ -9,7 +9,7 @@
 ## 2023
 
 - J. M. Almendros-Jimenez, **A. Becerra-Teron**, M. G. Merayo, M. Nunez.
-*Using Metamorphic Testing to Improve the Quaility of Tags in OpenStreetMap*. IEEE Transactions on Software Engineering. Vol. 49, N. 2, Pages 549-563, 2023, IEEE. [[Download Open Access Version]](MainContributions/TSE-2023/TRE-2023.pdf)
+*Using Metamorphic Testing to Improve the Quaility of Tags in OpenStreetMap*. IEEE Transactions on Software Engineering. Vol. 49, N. 2, Pages 549-563, 2023, IEEE. [[Download Open Access Version]](MainContributions/TSE-2023/TSE-2023.pdf)
 
 ## 2021
 
