@@ -30,4 +30,4 @@
 - Manuel Torres, José Samos, Eladio Garví. (2014). Closing Ontologies to Define OLAP Systems. International Journal of Information Retrieval Research (IJIRR), 4(4), 1-16. (2014). [[Download preprint]](IJIRR-2014/pub/IJIRR-2014-pre.pdf)
 
 ## 2019
-- Jesús Manuel Almendros-Jiménez, Antonio Becerra-Terón, Manuel Torres. Integrating and Querying OpenStreetMap and Linked Geo Open Data. The Computer Journal 62(3), pp. 321-345 (2019). [[Download preprint]](TCJ-2019/pub/TCJ-2019-pre.pdf)
+- Jesús Manuel Almendros-Jiménez, Antonio Becerra-Terón, Manuel Torres. Integrating and Querying OpenStreetMap and Linked Geo Open Data. The Computer Journal 62(3), pp. 321-345 (2019). [[Download preprint]]([ReserveContributions/CJ-2019/CJ-2019-pre.pdf])
